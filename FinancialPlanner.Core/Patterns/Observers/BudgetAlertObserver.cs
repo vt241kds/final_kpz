@@ -2,6 +2,7 @@ using FinancialPlanner.Core.Models;
 
 namespace FinancialPlanner.Core.Patterns.Observers;
 
+
 public class ConsoleBudgetAlertObserver : IBudgetObserver
 {
     public void OnBudgetAlert(object sender, BudgetAlertEventArgs e)
