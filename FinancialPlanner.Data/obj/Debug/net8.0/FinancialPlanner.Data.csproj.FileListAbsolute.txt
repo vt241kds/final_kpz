@@ -1,0 +1,15 @@
+/Users/diana/Downloads/FinancialPlanner/FinancialPlanner.Data/bin/Debug/net8.0/FinancialPlanner.Data.deps.json
+/Users/diana/Downloads/FinancialPlanner/FinancialPlanner.Data/bin/Debug/net8.0/FinancialPlanner.Data.dll
+/Users/diana/Downloads/FinancialPlanner/FinancialPlanner.Data/bin/Debug/net8.0/FinancialPlanner.Data.pdb
+/Users/diana/Downloads/FinancialPlanner/FinancialPlanner.Data/bin/Debug/net8.0/FinancialPlanner.Core.dll
+/Users/diana/Downloads/FinancialPlanner/FinancialPlanner.Data/bin/Debug/net8.0/FinancialPlanner.Core.pdb
+/Users/diana/Downloads/FinancialPlanner/FinancialPlanner.Data/obj/Debug/net8.0/FinancialPlanner.Data.csproj.AssemblyReference.cache
+/Users/diana/Downloads/FinancialPlanner/FinancialPlanner.Data/obj/Debug/net8.0/FinancialPlanner.Data.GeneratedMSBuildEditorConfig.editorconfig
+/Users/diana/Downloads/FinancialPlanner/FinancialPlanner.Data/obj/Debug/net8.0/FinancialPlanner.Data.AssemblyInfoInputs.cache
+/Users/diana/Downloads/FinancialPlanner/FinancialPlanner.Data/obj/Debug/net8.0/FinancialPlanner.Data.AssemblyInfo.cs
+/Users/diana/Downloads/FinancialPlanner/FinancialPlanner.Data/obj/Debug/net8.0/FinancialPlanner.Data.csproj.CoreCompileInputs.cache
+/Users/diana/Downloads/FinancialPlanner/FinancialPlanner.Data/obj/Debug/net8.0/Financia.4FC77914.Up2Date
+/Users/diana/Downloads/FinancialPlanner/FinancialPlanner.Data/obj/Debug/net8.0/FinancialPlanner.Data.dll
+/Users/diana/Downloads/FinancialPlanner/FinancialPlanner.Data/obj/Debug/net8.0/refint/FinancialPlanner.Data.dll
+/Users/diana/Downloads/FinancialPlanner/FinancialPlanner.Data/obj/Debug/net8.0/FinancialPlanner.Data.pdb
+/Users/diana/Downloads/FinancialPlanner/FinancialPlanner.Data/obj/Debug/net8.0/ref/FinancialPlanner.Data.dll

@@ -1,0 +1,95 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "FinancialPlanner.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/FinancialPlanner.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/FinancialPlanner.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FinancialPlanner.Core/1.0.0": {
+      "type": "project",
+      "path": "../FinancialPlanner.Core/FinancialPlanner.Core.csproj",
+      "msbuildProject": "../FinancialPlanner.Core/FinancialPlanner.Core.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "FinancialPlanner.Core >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "/Users/diana/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/Users/diana/Desktop/FinancialPlanner/FinancialPlanner.Data/FinancialPlanner.Data.csproj",
+      "projectName": "FinancialPlanner.Data",
+      "projectPath": "/Users/diana/Desktop/FinancialPlanner/FinancialPlanner.Data/FinancialPlanner.Data.csproj",
+      "packagesPath": "/Users/diana/.nuget/packages/",
+      "outputPath": "/Users/diana/Desktop/FinancialPlanner/FinancialPlanner.Data/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/Users/diana/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "/Users/diana/Desktop/FinancialPlanner/FinancialPlanner.Core/FinancialPlanner.Core.csproj": {
+              "projectPath": "/Users/diana/Desktop/FinancialPlanner/FinancialPlanner.Core/FinancialPlanner.Core.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      },
+      "SdkAnalysisLevel": "10.0.100"
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/10.0.101/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
