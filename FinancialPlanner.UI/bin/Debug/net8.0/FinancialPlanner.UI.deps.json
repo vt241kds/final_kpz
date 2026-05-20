@@ -1,0 +1,56 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "FinancialPlanner.UI/1.0.0": {
+        "dependencies": {
+          "FinancialPlanner.Core": "1.0.0",
+          "FinancialPlanner.Data": "1.0.0"
+        },
+        "runtime": {
+          "FinancialPlanner.UI.dll": {}
+        }
+      },
+      "FinancialPlanner.Core/1.0.0": {
+        "runtime": {
+          "FinancialPlanner.Core.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "FinancialPlanner.Data/1.0.0": {
+        "dependencies": {
+          "FinancialPlanner.Core": "1.0.0"
+        },
+        "runtime": {
+          "FinancialPlanner.Data.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FinancialPlanner.UI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FinancialPlanner.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FinancialPlanner.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
